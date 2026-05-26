@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Service
+ServiceTypes=Krita/PythonPlugin
+X-KDE-Library=export_selected
+X-Python-2-Compatible=false
+Name=Export Selected
+Comment=Export selected layers/groups as trimmed transparent PNGs
