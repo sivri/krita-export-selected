@@ -38,9 +38,7 @@ Download the plugin zip, then in Krita:
 3. Set scale and padding
 4. Click `Export Selected`
 
-Example:
+## License
 
-Layer name:
+This project is released under The Unlicense. See [LICENSE](LICENSE).
 
-```text
-Ship_Cockpit
