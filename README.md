@@ -37,3 +37,8 @@ Download the plugin zip, then in Krita:
 2. Choose an export folder
 3. Set scale and padding
 4. Click `Export Selected`
+
+## License
+
+This project is released under The Unlicense. See [LICENSE](LICENSE).
+
