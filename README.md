@@ -37,10 +37,3 @@ Download the plugin zip, then in Krita:
 2. Choose an export folder
 3. Set scale and padding
 4. Click `Export Selected`
-
-Example:
-
-Layer name:
-
-```text
-Ship_Cockpit
