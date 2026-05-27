@@ -234,7 +234,7 @@ class ExportSelectedDocker(DockWidget):
         if raw is None:
             return False, "No pixel data"
 
-        img = QImage(raw, width, height, width * 4, QImage.Format_RGBA8888).copy()
+        img = QImage(raw, width, height, width * 4, QImage.Format_ARGB32).copy()
 
         if img.isNull():
             return False, "Failed to build image"
